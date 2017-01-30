@@ -1,1 +1,2 @@
-This is a file
+This is not a line but a file
+I have just added a line to this file!
